@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=444sami&label=Profile%20views&color=0e75b6&style=flat" alt="444sami" /> </p>
 
-- ♥︎ I’m currently studying on [foundations at Holberton School](https://holbertonschool.uy/)
+♥︎ I’m currently studying on [foundations at Holberton School](https://holbertonschool.uy/)
 
-- ♥︎ I’m currently learning **about C and Shell programming**
+♥︎ I’m currently learning **about C and Shell programming**
 
-- ♥︎ How to reach me: **5741@holbertonstudents.com**
+♥︎ How to reach me: **5741@holbertonstudents.com**
 
-- ♥︎ Know about my experiences: [Graduated from BIOS, Graphic Designer](https://www.biosportal.com/)
+♥︎ Know about my experiences: [Graduated from BIOS, Graphic Designer](https://www.biosportal.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
