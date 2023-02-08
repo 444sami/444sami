@@ -1,9 +1,8 @@
+<h1 align="center"> ![MasterHead](https://i.pinimg.com/originals/41/fa/7c/41fa7c84296bbc652e03a3f2a32db196.jpg)
 <h1 align="center">🌸 Hello 🌸 My name is Samara González</h1>
 <h3 align="center">Student from Uruguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=444sami&label=Profile%20views&color=0e75b6&style=flat" alt="444sami" /> </p>
-
-![MasterHead](https://i.pinimg.com/originals/41/fa/7c/41fa7c84296bbc652e03a3f2a32db196.jpg)
 
 ♥︎ I’m currently studying on [foundations at Holberton School](https://holbertonschool.uy/)
 
