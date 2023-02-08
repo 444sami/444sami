@@ -9,7 +9,7 @@
 
 - ♥︎ How to reach me: **5741@holbertonstudents.com**
 
-- ♥︎ Know about my experiences [Graduated from BIOS, Graphic Designer]
+- ♥︎ Know about my experiences: [Graduated from BIOS, Graphic Designer](https://www.biosportal.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
