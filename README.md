@@ -20,6 +20,10 @@
 <a href="https://instagram.com/ttthaisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttthaisa" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/L4TD4MWFy40AAAAi/kirby.gif.gif" alt="animated" />
+</p>
+
 ![](https://media.tenor.com/L4TD4MWFy40AAAAi/kirby.gif)
 
 <h3 align="left">Languages and Tools:</h3>
