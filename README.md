@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/7c/aa/dc/7caadc856497eec30310687050729e47.jpg)]
+![MasterHead](https://i.pinimg.com/originals/7c/aa/dc/7caadc856497eec30310687050729e47.jpg)
 <h1 align="center">🌸 Hello 🌸 My name is Samara González</h1>
 <h3 align="center">Student from Uruguay</h3>
 
