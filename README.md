@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hello 🌸 My name is Samara González</h1>
 <h3 align="center">Student from Uruguay</h3>
 
-![MasterHead](https://i.pinimg.com/564x/03/07/0e/03070eb9d0a8252b4429992986a8d142.jpg)]
+![MasterHead](https://i.pinimg.com/564x/1e/3a/15/1e3a1534b8ff654a800c786d938c836a.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=444sami&label=Profile%20views&color=0e75b6&style=flat" alt="444sami" /> </p>
 
