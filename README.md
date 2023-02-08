@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=444sami&label=Profile%20views&color=0e75b6&style=flat" alt="444sami" /> </p>
 
-![MasterHead](https://i.pinimg.com/564x/4a/2f/0d/4a2f0ded3784d72ee97d081169bd26f6.jpg)
+![MasterHead](https://i.pinimg.com/originals/41/fa/7c/41fa7c84296bbc652e03a3f2a32db196.jpg)
 
 ♥︎ I’m currently studying on [foundations at Holberton School](https://holbertonschool.uy/)
 
