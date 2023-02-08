@@ -7,9 +7,9 @@
 
 - ♥︎ I’m currently learning **about C and Shell programming**
 
-- ♥︎ How to reach me **5741@holbertonstudents.com**
+- ♥︎ How to reach me: **5741@holbertonstudents.com**
 
-- 📄 Know about my experiences [Graduated from BIOS, Graphic Designer](Graduated from BIOS, Graphic Designer)
+- ♥︎ Know about my experiences [Graduated from BIOS, Graphic Designer]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
