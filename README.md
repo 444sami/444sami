@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hello 🌸 My name is Samara González</h1>
+<h1 align="center">🌸 Hello there! 🌸</h1>
 <h3 align="center">Student from Uruguay</h3>
 
 ![MasterHead](https://i.pinimg.com/originals/39/51/34/395134fcfcbbf6f6875a68491c48ee41.jpg)
