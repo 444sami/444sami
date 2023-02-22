@@ -7,7 +7,7 @@
 
 ♥︎ I’m currently studying on [Software Engineering at Holberton School](https://holbertonschool.uy/)
 
-♥︎ I’m currently learning **about C and Shell programming**
+♥︎ I’m currently learning **about programming in C**
 
 ♥︎ How to reach me: **5741@holbertonstudents.com**
 
