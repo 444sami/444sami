@@ -1,5 +1,5 @@
-<h1 align="center">🌸 Hello 🌸</h1>
-<h3 align="center">I'm Samara, welcome to my GitHub</h3>
+<h1 align="center">🌸 Heyy 🌸</h1>
+<h3 align="center">My name is Samara! Welcome to my github</h3>
 
 ![MasterHead](https://i.pinimg.com/originals/39/51/34/395134fcfcbbf6f6875a68491c48ee41.jpg)
 
